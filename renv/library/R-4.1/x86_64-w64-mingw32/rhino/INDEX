@@ -1,0 +1,13 @@
+app                     Rhino application
+build_js                Build JavaScript
+build_sass              Build Sass
+diagnostics             Print diagnostics
+format_r                Format R
+init                    Create Rhino application
+lint_js                 Lint JavaScript
+lint_r                  Lint R
+lint_sass               Lint Sass
+log                     Logging functions
+rhinos                  Population of rhinos
+test_e2e                Run Cypress end-to-end tests
+test_r                  Run R unit tests

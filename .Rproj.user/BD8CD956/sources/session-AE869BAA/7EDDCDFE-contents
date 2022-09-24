@@ -1,0 +1,4 @@
+library(DBI)
+con <- dbConnect(odbc(), Driver = "SQL Server", Server = "CIR-LAP-050", 
+    Database = "ALLO_RESEARCH_DW", Trusted_Connection = "True")
+

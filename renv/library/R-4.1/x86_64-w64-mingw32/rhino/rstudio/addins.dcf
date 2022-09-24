@@ -1,0 +1,4 @@
+Name: Rhino module
+Description: Inserts Rhino module at your cursor position.
+Binding: addin_module
+Interactive: false

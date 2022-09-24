@@ -1,0 +1,10 @@
+box                     An alternative module system for R
+export                  Explicitly declare module exports
+file                    Find the full file names of files in modules
+help                    Display module documentation
+mod-hooks               Hooks for module events
+name                    Get a module’s name
+register_S3_method      Register S3 methods
+script_path             Set the base path of the script
+unload                  Unload or reload a given module
+use                     Import a module or package

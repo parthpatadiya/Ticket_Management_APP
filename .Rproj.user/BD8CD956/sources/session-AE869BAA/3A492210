@@ -1,0 +1,26 @@
+{
+    "id": "3A492210",
+    "path": "~/Learning/projects/Ticket_Management/app/main.R",
+    "project_path": "app/main.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1663955474046.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,30",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1663956089,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1663956089172,
+    "read_only": false,
+    "read_only_alternatives": []
+}
